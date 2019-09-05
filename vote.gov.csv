@@ -1,0 +1,5 @@
+"2019-08-24 19:22:53.000","staging.vote.gov","cname","d3rjcr7wk6cbst.cloudfront.net","201908"
+"2019-08-24 22:39:49.000","www.vote.gov","a","54.85.132.205","201908"
+"2019-08-24 04:49:35.000","beta.vote.gov","cname","di5gyq0wmd14q.cloudfront.net","201908"
+"2019-08-24 16:18:45.000","new.vote.gov","cname","d2fr19uaud3s4h.cloudfront.net","201908"
+"2019-08-24 03:08:22.000","_dmarc.vote.gov","txt","|v=DMARC1; p=reject; pct=100; fo=1; ri=86400; rua=mailto:dmarcreports@gsa.gov,mailto:reports@dmarc.cyber.dhs.gov; ruf=mailto:dmarcfailures@gsa.govnline","201908"

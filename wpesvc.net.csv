@@ -1,0 +1,8 @@
+"2019-08-24 20:19:42.000","vault-dev.wpesvc.net","cname","internal-vault-appli-1qa7pejiogj56-1635348910.us-east-1.elb.amazonaws.com","201908"
+"2019-08-24 20:17:51.000","vault.wpesvc.net","cname","internal-vault-appli-3ijwon45da8x-1285410381.us-east-1.elb.amazonaws.com","201908"
+"2019-08-24 19:42:05.000","tectonic.wpesvc.net","ns","ns-1438.awsdns-51.org","201908"
+"2019-08-24 19:42:05.000","tectonic.wpesvc.net","ns","ns-1869.awsdns-41.co.uk","201908"
+"2019-08-24 19:42:05.000","tectonic.wpesvc.net","ns","ns-431.awsdns-53.com","201908"
+"2019-08-24 19:42:05.000","tectonic.wpesvc.net","ns","ns-585.awsdns-09.net","201908"
+"2019-08-24 19:42:05.000","tectonic.wpesvc.net","soa","ns-431.awsdns-53.com awsdns-hostmaster.amazon.com 1 7200 900 1209600 86400","201908"
+"2019-08-24 16:18:25.000","nessus-scan.wpesvc.net","a","104.155.154.119","201908"

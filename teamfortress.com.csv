@@ -1,0 +1,5 @@
+"2019-08-24 19:02:20.000","smtp.wiki.teamfortress.com","a","208.64.202.101","201908"
+"2019-08-24 20:59:54.000","wiki.teamfortress.com","a","35.227.220.185","201908"
+"2019-08-24 20:59:54.000","wiki.teamfortress.com","mx","10 smtp.wiki.teamfortress.com","201908"
+"2019-08-24 21:02:50.000","wiki.teamfortress.com","txt","|v=spf1 mx include:spf.mailjet.com -all","201908"
+"2019-08-24 20:59:54.000","wiki.teamfortress.com","txt","|v=spf1 mx include:spf.mailjet.com -allA","201908"

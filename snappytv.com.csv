@@ -1,0 +1,8 @@
+"2019-08-24 18:28:02.000","rel.snappytv.com","cname","fe1-rel-409290520.us-west-2.elb.amazonaws.com","201908"
+"2019-08-24 19:21:22.000","stage.snappytv.com","cname","fe1-stage-401122929.us-west-2.elb.amazonaws.com","201908"
+"2019-08-24 12:48:39.000","media.snappytv.com","cname","media.snappytv.com.edgesuite.net","201908"
+"2019-08-24 19:43:28.000","static.origin.snappytv.com","cname","fe1-prod-1801169698.us-west-2.elb.amazonaws.com","201908"
+"2019-08-24 19:33:40.000","static.snappytv.com","cname","static.snappytv.com.edgesuite.net","201908"
+"2019-08-24 10:28:22.000","www.snappytv.com","cname","fe1-prod-1801169698.us-west-2.elb.amazonaws.com","201908"
+"2019-08-24 13:21:52.000","mta01.usw2.snappytv.com","cname","ec2-54-245-235-101.us-west-2.compute.amazonaws.com","201908"
+"2019-08-24 13:22:59.000","mta02.usw2.snappytv.com","cname","ec2-54-245-235-112.us-west-2.compute.amazonaws.com","201908"
